@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Virgile-R
-- 👀 I’m interested in JavaScript, Python, Digital Humanities, Web Development  
-- 🌱 I’m currently learning React, Python
+- 💼 Find my portfolio @ https://www.virgilereiter.com
+- 👀 I’m interested in JavaScript, Python, Digital Humanities, Web and Mobile Development  
+- 🌱 I’m always learning React, React Native, Express, NodeJS, Python, PHP and more...
 
 
 <!---
